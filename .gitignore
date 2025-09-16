@@ -1,33 +1,24 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-.env # For environment variables like API keys
-*egg-info/
-.pytest_cache/
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
-# Data
-data/*.csv # If large or sensitive data is generated/downloaded directly
-data/*.json
-data/*.sqlite # Database file
-data/*.db
+node_modules
+dist
+dist-ssr
+*.local
 
-# ML Models
-models/*.pkl
-models/*.h5
-models/*.joblib
-
-# Jupyter Notebooks
-.ipynb_checkpoints/
-
-# Web App specifics
-node_modules/ # If using Node.js/React frontend
-build/ # React build output
-
-# IDE specific
-.vscode/
-.idea/
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
