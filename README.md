@@ -1,4 +1,4 @@
-ACADEMY_SCOUT: A REVOLUTIONARY INNOVATION IN THE WORLD OF SCOUTING IN PROFESSIONAL SCOUTING
+SCOUTVEST: A REVOLUTIONARY INNOVATION IN THE WORLD OF SCOUTING IN PROFESSIONAL SCOUTING
 
 Academy scout is an innovative platform that leverages machine learning to predict the future market value of young soccer players and provides a simulated investment environment for users to build and manage virtual portfolios. It brings together the worlds of sports analytics, finance, and artificial intelligence.
 
